@@ -1,0 +1,7 @@
+fastprogress
+beautifulsoup4
+matplotlib
+pandas
+bokeh
+requests
+jupyter
